@@ -14,9 +14,9 @@ CardiacSegV2/
 ├─ download_data.py      # 資料下載腳本
 ├─ requirements.txt      # 專案依賴
 └─ README.md             # 專案說明
-## C:\Users\User\Desktop\AI_CUP\CardiacSegV2\networks\network.py 有模型種類
-## args.tune_mode == 'optim' 可以測試不同學習率
-## C:\Users\User\Desktop\AI_CUP\CardiacSegV2\exps\data_dicts\chgh\AICUP_training.json 資料集劃分
-## 問題 好像沒有用到全部資料集
-## 可以學習optuna
-## 可以更換模型試試
+### C:\Users\User\Desktop\AI_CUP\CardiacSegV2\networks\network.py 有模型種類
+### args.tune_mode == 'optim' 可以測試不同學習率
+### C:\Users\User\Desktop\AI_CUP\CardiacSegV2\exps\data_dicts\chgh\AICUP_training.json 資料集劃分
+### 問題 好像沒有用到全部資料集
+### 可以學習optuna
+### 可以更換模型試試
